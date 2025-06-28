@@ -1,4 +1,4 @@
-# GauchoNueroBet
+# GauchoNeuroBet
 Full Stack web app that uses a neural network and inferential statistics to predict an NBA player's stats in their next game.
 
 
